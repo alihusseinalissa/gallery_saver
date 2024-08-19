@@ -1,5 +1,3 @@
-package android
-
 group 'carnegietechnologies.gallery_saver'
 version '1.0-SNAPSHOT'
 
